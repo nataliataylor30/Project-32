@@ -1,0 +1,7 @@
+node_modules/
+.idea
+
+**/ignore
+**/ignore.*
+/coverage
+/.nyc_output
